@@ -1,4 +1,4 @@
-name = 'office-user-auto-create'
+name = 'vnitz'
 account_id = ''
 type = 'webpack'
 workers_dev = true
