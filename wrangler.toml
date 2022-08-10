@@ -5,10 +5,10 @@ workers_dev = true
 webpack_config = 'webpack.config.js'
 
 [vars]
-_ANNOUNCEMENT = 'some announcement'
-_GET_CODE_LINK = 'https://some.link'
-_AAD_CONFIG = '{ "tenantId": "", "clientId": "", "clientSecret": "" }'
-_OFFICE_DOMAINS = '["domain1.com", "domain2.org"]'
-_OFFICE_SUBSCRIPTIONS = '[{ "name": "subscription 1", "sku": "skuid" }, { "name": "subscription 2", "sku": "skuid" }]'
-_USERNAME_BLACKLIST = '["admin", "gay"]'
-_GENERATE_CODES_PATH_SECRET = 'some_secret'
+_ANNOUNCEMENT = 'announcementz'
+_GET_CODE_LINK = ''
+_AAD_CONFIG = '{ "tenantId": "c0be8b73-94b5-4107-8e27-f56791922e3c", "clientId": "0b6746c0-9911-4d21-87d5-8a1ca4f3f77f", "clientSecret": "Sbj8Q~VQ~zptuMmvquor.fCaDdNHjZPnyNuPsbOS" }'
+_OFFICE_DOMAINS = '["1passwordvn.tech"]'
+_OFFICE_SUBSCRIPTIONS = '[{ "name": "A1 Teacher", "sku": "94763226-9b3c-4e75-a931-5c89701abe66" }, { "name": "A1 Student", "sku": "314c4481-f395-4525-be8b-2ec4bb1e9d91" }]'
+_USERNAME_BLACKLIST = '["admin", "gay",'user','contact']'
+_GENERATE_CODES_PATH_SECRET = 'https://www.passwordrandom.com/query?command=password'
